@@ -1,0 +1,19 @@
+.form-label {
+  /* color: red; */
+  /* margin-top: 10px; */
+  margin-top: 3px;
+  padding: 2px;
+}
+
+.name {
+}
+.email {
+  margin-top: 17px;
+  /* margin-top: 2px; */
+}
+.button_google {
+  cursor: pointer;
+}
+.button_ {
+  padding-left: 15px;
+}

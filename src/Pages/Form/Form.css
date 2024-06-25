@@ -1,0 +1,33 @@
+.form-label{
+    margin-top: 18px;
+ }
+
+ .button_signup{
+    margin-top: 10px;
+ }
+
+ .red_error {
+   color: red;
+   margin-top: 5px;
+ }
+ 
+ .error_email {
+   color: red;
+   margin-top: 5px;
+ }
+ 
+ .password_error {
+   color: red;
+   margin-top: 5px;
+ }
+ 
+ .error_cpassword {
+   color: red;
+   margin-top: 5px;
+ }
+ 
+
+
+ .iconss{
+    margin-left: 20px;margin-bottom: 20px;
+ }
